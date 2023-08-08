@@ -1,2 +1,1 @@
-# stunning-succotash
-FED401 - HTML Day 2
+# FED401 - HTML Day 2
